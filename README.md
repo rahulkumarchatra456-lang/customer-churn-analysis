@@ -67,7 +67,5 @@ The notebook includes plan-wise, state-wise, contract-wise, cancellation-reason,
 ## Author
 
 Your Name
+RAHUL KUMAR
 
-## Disclaimer
-
-This project is for learning and portfolio demonstration. Findings are based on a small sample dataset and should be validated before making business decisions.
